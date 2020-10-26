@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+/*All page*/
+*  {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+/*Header*/
+
+.header-background {
+    background-image: url('../image/imgheader.jpg');
+    height: 335px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-perfil {
+    max-height: 200px;
+}
+
+.name{
+    color: black;
+    opacity: 0.5;
+}  
+
+.profession{
+    color: rgb(102, 110, 23);
+    opacity: 0.5;
+}  
+
+
+
+
+
+/* Section & Aside*/
+
+.nav-text {
+    position: relative;
+    overflow: auto;
+    height: 300px;
+}
+
+h4 {
+    color: rgb(102, 110, 23);
+    opacity: 0.6;
+}
+
+
+h5 {
+    color: rgb(102, 110, 23);
+    opacity: 0.6;
+}
+
+
+.video-inspiration {
+    opacity: 0.8;
+}
+
+.jumbo-progress {
+    opacity: 0.5;
+}
+
+.card-img-top {
+    opacity: 0.75;
+}
+
+.btn-secondary {
+    opacity: 0.6;
+}
+
+
+/* Footer */ 
+.blockquote {
+    font-size: small;
+}
+
+
+
